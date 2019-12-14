@@ -99,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576334183472</updated>
-      <workItem from="1576334186411" duration="4669000" />
+      <workItem from="1576334186411" duration="4898000" />
     </task>
     <task id="LOCAL-00001" summary="线程池">
       <created>1576338816699</created>
@@ -115,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576338845771</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="线程池图片">
+      <created>1576339007601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576339007601</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="线程池" />
-    <option name="LAST_COMMIT_MESSAGE" value="线程池" />
+    <MESSAGE value="线程池图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="线程池图片" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1576338640238">
@@ -138,10 +146,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1576334504222" />
-    <state x="303" y="6" key="CommitChangelistDialog2" timestamp="1576338845119">
+    <state x="303" y="6" key="CommitChangelistDialog2" timestamp="1576339006981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="303" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576338845119" />
+    <state x="303" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576339006981" />
     <state x="570" y="168" key="FileChooserDialogImpl" timestamp="1576335531641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -166,6 +174,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576336949767" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1576339016361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576339016361" />
     <state x="178" y="14" key="new project wizard" timestamp="1576334419256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
