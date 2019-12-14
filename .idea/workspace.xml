@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6433bbc-4700-40c1-993c-be4f041ecf2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadpool/src/main/java/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadpool/src/main/resources/static/pool.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,12 +99,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576334183472</updated>
-      <workItem from="1576334186411" duration="4511000" />
+      <workItem from="1576334186411" duration="4669000" />
     </task>
+    <task id="LOCAL-00001" summary="线程池">
+      <created>1576338816699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576338816699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="线程池">
+      <created>1576338845771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576338845771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="线程池" />
+    <option name="LAST_COMMIT_MESSAGE" value="线程池" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1576338640238">
@@ -120,30 +138,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1576334504222" />
-    <state x="303" y="6" key="CommitChangelistDialog2" timestamp="1576338816087">
+    <state x="303" y="6" key="CommitChangelistDialog2" timestamp="1576338845119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="303" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576338816087" />
+    <state x="303" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576338845119" />
     <state x="570" y="168" key="FileChooserDialogImpl" timestamp="1576335531641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="570" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576335531641" />
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1576337763333">
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1576338848637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576337763333" />
-    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1576337763333">
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576338848637" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1576338848637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576337763333" />
-    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1576337763333">
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576338848637" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1576338848636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576337763333" />
-    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1576337763333">
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576338848636" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1576338848637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576337763333" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576338848637" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1576336949767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
