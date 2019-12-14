@@ -4,9 +4,10 @@
 
 ![Image text](https://github.com/qh-hub/thread_poll/blob/master/threadpool/src/main/resources/static/pool.jpg)
 #1.线程池创建的时候，核心线程数设置问题。
-2.
 
-3.
+#2.
+
+#3.
 
 
 
